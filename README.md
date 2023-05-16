@@ -37,4 +37,6 @@ VS Code
 4) Critical thinking
 5) Self Motivation
 
-
+# Admin Details
+username : SarangDeo
+password : SSD@123
