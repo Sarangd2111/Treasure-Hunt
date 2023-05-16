@@ -1,0 +1,76 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Charm:wght@700&display=swap');
+
+
+.home {
+  text-align: center;
+  background-color: rgb(15, 101, 140);
+  background-image: url('../images/AdobeStock_121801586-treasuremap.jpeg');
+  overflow-x: hidden;
+  background-size: 100vw 100%;
+  background-repeat:no-repeat ;
+  font-family: 'Charm', cursive; 
+  min-height: 100vh;
+}
+
+h2  {
+  color: rgb(80, 36, 3);
+  font-size: 60px !important;
+  font-weight: 1000 !important;
+  letter-spacing: 2px !important;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 10px !important;
+  position: relative !important;
+  z-index: 0;
+  text-shadow: 5px 5px 20px  rgb(80, 36, 3);
+  }
+
+  .form_button {
+    background: none;
+    border: solid 2px rgb(80, 36, 3);
+    color: rgb(80, 36, 3);
+    cursor: pointer;
+    display: inline-block;
+    font-size: 1.075em;
+    font-weight: bold;
+    outline: none;
+    padding: 20px 35px;
+    text-transform: uppercase;
+    transition: 0.3s;
+    font-family: 'Charm', cursive; 
+    }
+    
+    .form_button:hover {
+    background: rgb(232, 217, 203);
+    color: rgb(80, 36, 3);
+    scale: 1.1;
+    box-shadow: 5px 5px 50px black, 2px 2px 30px inset rgb(80, 36, 3);
+    border-color: rgb(80, 36, 3);
+    }
+    
+    .heading{
+      margin-top: 28vh !important;
+    }
+
+    a{
+      text-decoration: none;
+      color: rgb(80, 36, 3);
+      font-size: 25px;
+    }
+    .development>a{
+      margin-top:10px; 
+      font-size: 30px;
+      color: rgb(80, 36, 3);
+      transition: 0.3s;
+    }
+
+    .development>a:hover{
+      font-size: 35px;
+
+      transition: 0.3s;
+    }
+
+
+
+    
