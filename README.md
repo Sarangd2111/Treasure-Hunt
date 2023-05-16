@@ -22,7 +22,7 @@ VS Code
 2) User score evaluation and storage
 3) A global leaderboard
 4) Admin login
-5) Chance based scoring(The more Chacnes takn the less score user gets)
+5) Chance based scoring(The more Chacnes taken the less score user gets)
 6) Various outer resources like images, videos and texts used
 7) User/Admin Stats dashboard
 8) Map of island for convience and hint to the clues.
