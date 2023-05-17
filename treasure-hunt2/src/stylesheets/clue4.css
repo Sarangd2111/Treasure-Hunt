@@ -1,0 +1,38 @@
+.Clue4 {
+    text-align: center;
+    background-color: rgb(15, 101, 140);
+    background-image: url('../images/vintage_paper_background_27081.jpg');
+    overflow-x: hidden;
+    background-size: 100vw 100%;
+    background-repeat:no-repeat ;
+    font-family: 'Charm', cursive; 
+    min-height: 100vh;
+    text-transform: none !important;
+    padding-top: 30px;
+  }
+
+  h2{
+    margin-bottom: 10px;
+    text-align: center;
+  }
+
+  p{
+    color: rgb(80, 36, 3);
+    font-size: 25px;
+    text-align: justify;
+    margin: 10px 10% 20px 10%;
+    border: 2px solid rgb(80, 36, 3);
+    padding: 10px;
+    box-shadow: 5px 5px 10px black, 1px 1px 10px inset black;
+  }
+
+  .underline{
+    margin-bottom: 30px;
+  }
+
+  .riddle{
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    /* width: fit-content; */
+  }

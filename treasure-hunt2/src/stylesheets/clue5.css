@@ -1,0 +1,24 @@
+.Clue5 {
+    text-align: center;
+    background-color: rgb(15, 101, 140);
+    background-image: url('../images/vintage_paper_background_27081.jpg');
+    overflow-x: hidden;
+    background-size: 100vw 100%;
+    background-repeat:no-repeat ;
+    font-family: 'Charm', cursive; 
+    min-height: 100vh;
+    text-transform: none !important;
+    padding-top: 30px;
+  }
+
+  .parchment{
+    text-align: center;
+    background-image: url('../images/pngwing.com.png');
+    background-size: 100% 100%;
+    font-size: 20px;
+    padding-top: 80px ;
+    padding-bottom: 60px ;
+    padding-right: 20px;
+    padding-left: 20px;
+    text-shadow: 4px 4px 20px rgb(80, 36, 3);
+  }
