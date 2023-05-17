@@ -1,0 +1,40 @@
+.leaderboard {
+    text-align: center;
+    background-color: rgb(15, 101, 140);
+    background-image: url('../images/vintage_paper_background_27081.jpg');
+    overflow-x: hidden;
+    background-size: 100vw 100%;
+    background-repeat:no-repeat ;
+    font-family: 'Charm', cursive; 
+    min-height: 100vh;
+    text-transform: none !important;
+    padding-top: 60px;
+    
+  }
+
+  .leadertable{
+    display: inline-block;
+    margin-bottom:50px;
+    box-shadow: 20px 20px 100px rgb(80, 36, 3);
+    width: fit-content;
+  }
+
+  table {
+    border: 2px solid rgb(80, 36, 3);
+  }
+    
+  th {
+    border: 1px solid black;
+    text-align: center;
+    font-size: 40px;
+    color:rgb(80, 36, 3);
+    padding: 10px;
+  }
+    
+  td {
+    border: 1px solid black;
+    text-align: center;
+    color:rgb(80, 36, 3);
+    padding: 10px;
+    font-size: 30px;
+  }
